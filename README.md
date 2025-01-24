@@ -38,3 +38,14 @@ npm install
 3. **View Results:**
     - The extension displays a comparison of actual vs expected outputs for each test case.
     - Highlights discrepancies for debugging.
+
+## Extracting Test Cases
+
+1. Open Command Palette (Ctrl+Shift+P or Cmd+Shift+P on macOS).
+2. Type CPH:Fetch Test Cases.
+3. Enter the Leetcode Problem URL.
+4. Press Enter.
+
+The test cases are fetched and stored in individual txt files.
+
+![alt text](image.png)
