@@ -1,0 +1,58 @@
+{
+  "name": "cph-leetcode",
+  "displayName": "cph-leetcode",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.fetchTestCases",
+        "title": "CPH: Fetch Test Cases"
+      },
+      {
+        "command": "extension.runTestCases",
+        "title": "CPH: Run Test Cases"
+      }
+    ],
+    "configuration": {
+      "title": "Leetcode CPH",
+      "properties": {
+        "cph.language.cpp.compile": {
+          "type": "string",
+          "default": "g++",
+          "description": "The command to compile C++ files"
+        },
+        "cph.language.cpp.OutputArg": {
+          "type": "string",
+          "default": "-o",
+          "description": "C++ compiler argument to specify output file"
+        },
+        "cph.language.python.run": {
+          "type": "string",
+          "default": "python",
+          "description": "The command to run Python files"
+        }
+      }
+    }
+  },
+
+  "devDependencies": {
+    "@types/node": "20.x",
+    "@types/vscode": "^1.96.0",
+    "eslint": "^9.16.0",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "eslint-plugin-vscode": "^2.4.0"
+  },
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  }
+}
