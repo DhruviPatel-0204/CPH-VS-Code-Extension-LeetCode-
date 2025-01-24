@@ -67,7 +67,7 @@ This will pop up if the test case passes.
 This will pop up if the test case fails.
 
 ## Project Directory Structure
-
+```
 .
 ├── .vscode/
 │   ├── launch.json
@@ -83,6 +83,8 @@ This will pop up if the test case fails.
 ├── extension.js
 ├── package-lock.json
 ├── package.json
+
+```
 
 
 
