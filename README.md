@@ -48,4 +48,4 @@ npm install
 
 The test cases are fetched and stored in individual txt files.
 
-![alt text](image.png)
+<img src="/image.png" alt="Logo" width="200"/>
