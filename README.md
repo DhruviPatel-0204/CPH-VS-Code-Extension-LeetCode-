@@ -14,3 +14,13 @@ A Visual Studio Code extension offering integrated testing and multi-language su
 
 3) Result Comparison & Debugging:
   View detailed results comparing actual outputs against expected outputs for each test case.
+
+## Installation
+
+1) Clone the repository.
+
+2) Install dependencies.
+To install the necessary dependencies for this project, run the following command:
+
+```bash
+npm install
