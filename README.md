@@ -18,11 +18,9 @@ A Visual Studio Code extension offering integrated testing and multi-language su
 ## Installation
 
 1) Clone the repository.
-
+(Please keep in mind that you will need to change the directory according to your system.)
 2) Install dependencies.
 To install the necessary dependencies for this project, run the following command:
 
 ```bash
 npm install
-
-(Please keep in mind that you will need to change the directory according to your system.)
