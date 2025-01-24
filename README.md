@@ -56,6 +56,3 @@ The test cases are fetched and stored in individual txt files.
 (Only coding languages allowed as of now are Python and CPP).
 Your code will be run and individual verdict for each test case will pop up.
 
-![alt text](image.png)
-
-This will pop up if that test case passes.
