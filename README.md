@@ -48,4 +48,14 @@ npm install
 
 The test cases are fetched and stored in individual txt files.
 
-<img src="/image.png" alt="Logo" width="200"/>
+## Running the user code
+
+1. Open the code that you want to run.
+2. Open Command Palette (Ctrl+Shift+P or Cmd+Shift+P on macOS).
+3. Type CPH:Run Test Cases.
+(Only coding languages allowed as of now are Python and CPP).
+Your code will be run and individual verdict for each test case will pop up.
+
+![alt text](image.png)
+
+This will pop up if that test case passes.
