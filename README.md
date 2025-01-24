@@ -75,7 +75,7 @@ This will pop up if the test case fails.
 │   └── tasks.js
 ├── node_modules/
 ├── testCases/
-│   └── .vscode/  # Note: This .vscode folder is *inside* testCases
+│   └── .vscode/  
 ├── TestData/
 ├── solution.cpp
 ├── solution.exe
@@ -83,6 +83,8 @@ This will pop up if the test case fails.
 ├── extension.js
 ├── package-lock.json
 ├── package.json
+
+
 
 
 
