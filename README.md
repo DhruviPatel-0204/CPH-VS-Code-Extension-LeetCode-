@@ -24,3 +24,16 @@ To install the necessary dependencies for this project, run the following comman
 
 ```bash
 npm install
+
+## Usage
+
+1. **Fetch Problem Statement and Test Cases:**
+    - User runs the command CPH: Fetch Test Cases.
+    - Inputs the LeetCode problem URL.
+    - The extension extracts and stores the test cases locally.
+2. **Write and Test Code:**
+    - Users write their solution in their preferred programming language.
+    - Run the command CPH: Run Test Cases to test their solution locally.
+3. **View Results:**
+    - The extension displays a comparison of actual vs expected outputs for each test case.
+    - Highlights discrepancies for debugging.
