@@ -47,6 +47,7 @@ npm install
 4. Press Enter.
 
 The test cases are fetched and stored in individual txt files.
+![alt text](image-1.png)
 
 ## Running the user code
 
