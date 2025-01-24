@@ -68,6 +68,21 @@ This will pop up if the test case fails.
 
 ## Project Directory Structure
 
-. ├── .vscode/ │ ├── launch.json │ ├── settings.json │ └── tasks.js ├── node_modules/ ├── testCases/ │ └── .vscode/ # Note: This .vscode folder is inside testCases ├── TestData/ ├── solution.cpp ├── solution.exe ├── solution.py ├── extension.js ├── package-lock.json ├── package.json 
+.
+├── .vscode/
+│   ├── launch.json
+│   ├── settings.json
+│   └── tasks.js
+├── node_modules/
+├── testCases/
+│   └── .vscode/  # Note: This .vscode folder is *inside* testCases
+├── TestData/
+├── solution.cpp
+├── solution.exe
+├── solution.py
+├── extension.js
+├── package-lock.json
+├── package.json
+
 
 
