@@ -24,3 +24,5 @@ To install the necessary dependencies for this project, run the following comman
 
 ```bash
 npm install
+
+(Please keep in mind that you will need to change the directory according to your system.)
