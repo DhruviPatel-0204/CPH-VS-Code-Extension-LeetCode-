@@ -59,5 +59,8 @@ The test cases are fetched and stored in individual txt files.
 Your code will be run and individual verdict for each test case will pop up.
 
 ![alt text](image-2.png)
+
 This will pop up if the test case passes.
+
+![alt text](image-3.png)
 
