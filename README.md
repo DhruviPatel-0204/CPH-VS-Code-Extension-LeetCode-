@@ -64,3 +64,5 @@ This will pop up if the test case passes.
 
 ![alt text](image-3.png)
 
+This will pop up if the test case fails.
+
